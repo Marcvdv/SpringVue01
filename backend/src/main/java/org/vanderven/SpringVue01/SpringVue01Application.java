@@ -1,0 +1,12 @@
+package org.vanderven.SpringVue01;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringVue01Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringVue01Application.class, args);
+	}
+}
